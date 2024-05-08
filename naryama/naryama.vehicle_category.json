@@ -1,0 +1,6 @@
+[{"_id": {"$oid": "65f2aa2f9e6a478349d252ac"}, "category_id": "v6EmKLKOLI", "name": "ELF GIGA LONG", "created_at": 1710402114, "updated_at": 0, "created_by": "b1047233-d264-4649-ad6e-62523ca70b00"},
+{"_id": {"$oid": "65f2aa369e6a478349d252ad"}, "category_id": "ilZnnSEdQO", "name": "HIACE PREMIO", "created_at": 1710402113, "updated_at": 0, "created_by": "b1047233-d264-4649-ad6e-62523ca70b00"},
+{"_id": {"$oid": "65f2aa3e9e6a478349d252ae"}, "category_id": "jmC0orAHbr", "name": "HIACE PREMIO LUXURY", "created_at": 1710402111, "updated_at": 0, "created_by": "b1047233-d264-4649-ad6e-62523ca70b00"},
+{"_id": {"$oid": "65f2aa459e6a478349d252af"}, "category_id": "EODu365iYr", "name": "BIGBUS JETBUS", "created_at": 1710402100, "updated_at": 0, "created_by": "b1047233-d264-4649-ad6e-62523ca70b00"},
+{"_id": {"$oid": "65f3cc0688878b0044e1055c"}, "category_id": "kooSszopIW", "name": "MPV", "created_at": 1710476294, "updated_at": 0, "created_by": "b1047233-d264-4649-ad6e-62523ca70b30", "status": "inactive"},
+{"_id": {"$oid": "65f3cc2188878b0044e1055e"}, "category_id": "zsSRpLJAHQ", "name": "MPV PREMIUM", "created_at": 1710402112, "updated_at": 1710481656, "created_by": "b1047233-d264-4649-ad6e-62523ca70b30", "status": "inactive"}]

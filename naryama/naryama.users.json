@@ -1,0 +1,1 @@
+[{"_id": {"$oid": "65d44db7f9c4f2004acde408"}, "email": "internal@naryama.com", "password_hash": "$2a$12$4y1OlUnr66WdnYechaAqkOyqO3gtBjEiT6ISLZLv57je2ErIwM.Le", "status": "active", "user_id": "b1047233-d264-4649-ad6e-62523ca70b30", "role": "admin"}]

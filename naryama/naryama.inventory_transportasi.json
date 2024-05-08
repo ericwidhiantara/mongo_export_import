@@ -1,0 +1,1 @@
+[{"_id": {"$oid": "660a834886b204ef3eebb206"}, "name": "Ban", "stock": "12", "desc": "test", "images": [], "inventory_id": "_7XezcKc96", "created_at": {"$date": "2024-04-01T09:50:00.588Z"}, "updated_at": 0, "slug": "ban-_7XezcKc96", "barcode": "DAD123321"}]
