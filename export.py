@@ -28,7 +28,7 @@ for collection_name in collections:
     length = db[collection_name].count_documents({})
 
     # Write documents to a JSON file
-    with open(os.path.join(directory, f'naryama.{collection_name}.json'), 'w') as file:
+    with open(os.path.join(directory, f'{collection_name}.json'), 'w') as file:
         # Start the JSON array
         file.write("[")
         # Iterate over documents

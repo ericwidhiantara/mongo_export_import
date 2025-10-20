@@ -1,0 +1,2 @@
+[{"_id": {"$oid": "68ee08a601e6835c4ed25ac5"}, "id": "9950aed1-56f6-47e7-bdb1-79fdc5a3535d", "query": "prabowo", "group_ids": ["c38f0ad9-e36a-4da7-a415-bcb6d6ef0112"], "created_at": 1760430246, "updated_at": 1760430246},
+{"_id": {"$oid": "68ee08fc01e6835c4ed25acd"}, "id": "73ee5643-3054-4fa1-9a1c-563b7547d23f", "query": "termux", "group_ids": ["69863017-a67d-48dc-8f04-de781b07ea2e", "c38f0ad9-e36a-4da7-a415-bcb6d6ef0112"], "created_at": 1760430332, "updated_at": 1760430332}]

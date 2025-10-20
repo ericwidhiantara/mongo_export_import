@@ -1,0 +1,2 @@
+[{"_id": {"$oid": "68a5766e97bc718b85934ba1"}, "id": "991762d1-182e-4072-94e1-047e40a7c6f2", "jid": "6289530504100:29@s.whatsapp.net", "phone": "6289530504100", "name": "rahman", "group_count": 0, "connected": true, "created_at": 1755674222, "updated_at": 1760692150},
+{"_id": {"$oid": "68abd01a80d7542006e6c9ac"}, "id": "619ddc92-cbb3-42ff-9abf-ec31a1872716", "jid": "6281385013491:15@s.whatsapp.net", "phone": "6281385013491", "name": "Saskia", "group_count": 0, "connected": false, "created_at": 1756090394, "updated_at": 1759806837}]

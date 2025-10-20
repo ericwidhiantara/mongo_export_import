@@ -20,7 +20,7 @@ json_files = [file for file in os.listdir(directory) if file.endswith('.json')]
 # Import each collection from JSON files
 for json_file in json_files:
     # Extract collection name from filename (remove extension and "naryama.")
-    collection_name = os.path.splitext(json_file)[0].replace("naryama.", "")
+    collection_name = os.path.splitext(json_file)[0].replace("{directory}.", "")
 
     # Open the JSON file and read its contents
     with open(os.path.join(directory, json_file), 'r') as file:

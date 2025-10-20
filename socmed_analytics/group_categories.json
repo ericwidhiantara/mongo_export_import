@@ -1,0 +1,3 @@
+[{"_id": {"$oid": "68a53b7b97bc718b85934b9f"}, "id": "385d4648-ddf4-4421-a26a-669bbe0f6c01", "name": "test", "description": "test", "total_group_count": 2, "created_at": 1755659131, "updated_at": 1755752342},
+{"_id": {"$oid": "68a6a78e97bc718b85934ba2"}, "id": "b6f6c311-64c1-481b-842b-796e0808d07a", "name": "test 2", "description": "test", "total_group_count": 2, "created_at": 1755752334, "updated_at": 1758523822},
+{"_id": {"$oid": "68a7e91e80d7542006e6c9aa"}, "id": "34cbce93-f02a-432b-9c1d-66af7500da1e", "name": "koruptor", "description": "dd", "total_group_count": 1, "created_at": 1755834654, "updated_at": 1758079828}]

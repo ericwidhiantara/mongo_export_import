@@ -1,0 +1,5 @@
+[{"_id": {"$oid": "68ee08a601e6835c4ed25ac4"}, "group_id": "c38f0ad9-e36a-4da7-a415-bcb6d6ef0112", "sentiment": {"positive": 0.0, "negative": 100.0, "neutral": 0.0}},
+{"_id": {"$oid": "68ee08fc01e6835c4ed25ac9"}, "group_id": "69863017-a67d-48dc-8f04-de781b07ea2e", "sentiment": {"positive": 33.33, "negative": 0.0, "neutral": 66.67}},
+{"_id": {"$oid": "68ee08fc01e6835c4ed25acc"}, "group_id": "c38f0ad9-e36a-4da7-a415-bcb6d6ef0112", "sentiment": {"positive": 50.0, "negative": 50.0, "neutral": 0.0}},
+{"_id": {"$oid": "68ee14906c1e4e4a20086358"}, "group_id": "69863017-a67d-48dc-8f04-de781b07ea2e", "sentiment": {"positive": 66.67, "negative": 0.0, "neutral": 33.33}},
+{"_id": {"$oid": "68ee14906c1e4e4a2008635b"}, "group_id": "c38f0ad9-e36a-4da7-a415-bcb6d6ef0112", "sentiment": {"positive": 50.0, "negative": 50.0, "neutral": 0.0}}]
